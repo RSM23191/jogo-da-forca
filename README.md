@@ -36,8 +36,7 @@ npm start
 ## Créditos
 Referências utilizadas:
 - Node.js
-- MDN Web Docs
-- W3Schools
+
 
 ## Licença
 Projeto desenvolvido para fins acadêmicos.
